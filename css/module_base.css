@@ -943,7 +943,7 @@ div.zoomMask {
     right: 0;
     width: 1px;
     height: 8px;
-    background: url(../images/separator1.png) no-repeat center center; }
+    background: url(../images/arrow-1.png) no-repeat center center; }
 
 .nav-style-3 .li-lev-1:last-child .nav-separator {
     display: none; }
@@ -984,7 +984,7 @@ div.zoomMask {
     right: 0;
     width: 5px;
     height: 14px;
-    background: url(../images/separator2.png) no-repeat center center; }
+    background: url(../images/arrow-1.png) no-repeat center center; }
 
 .nav-style-4 .li-lev-1:last-child .nav-separator {
     display: none; }
@@ -6663,7 +6663,7 @@ div.zoomMask {
     margin-top: -21px;
     height: 42px;
     width: 21px;
-    background-image: url("../images/btn1.png"); }
+    background-image: url("../images/dot-1.png"); }
 
 .wrap-pic-scroll .dot-1,
 .wrap-pic-scroll .dot-2,
@@ -6712,7 +6712,7 @@ div.zoomMask {
     margin-top: -21px;
     height: 42px;
     width: 42px;
-    background-image: url("../images/picscroll/btn2.png"); }
+    background-image: url("../images/dot-1.png"); }
 
 .wrap-pic-scroll .nav-2 .owl-prev:hover,
 .wrap-pic-scroll .nav-2 .owl-next:hover {
@@ -6725,7 +6725,7 @@ div.zoomMask {
     margin-top: -37px;
     height: 74px;
     width: 40px;
-    background-image: url("../images/picscroll/btn3.png"); }
+    background-image: url("../images/dot-1.png"); }
 
 .wrap-pic-scroll .nav-3 .owl-prev:hover,
 .wrap-pic-scroll .nav-3 .owl-next:hover {
@@ -6747,7 +6747,7 @@ div.zoomMask {
     opacity: 1;
     height: 32px;
     width: 32px;
-    background-image: url("../images/picscroll/btn4.png"); }
+    background-image: url("../images/dot-1.png"); }
 .wrap-pic-scroll .ctl-4 .nav-4 .owl-prev:hover,
 .wrap-pic-scroll .ctl-4 .nav-4 .owl-next:hover {
     opacity: .8; }
